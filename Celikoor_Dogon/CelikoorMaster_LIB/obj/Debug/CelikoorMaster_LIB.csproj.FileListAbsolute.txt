@@ -1,0 +1,160 @@
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.dll
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.pdb
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\MySql.Data.dll
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.AssemblyReference.cache
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CoreCompileInputs.cache
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CopyComplete
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.dll
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\MySql.Data.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.AssemblyReference.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CopyComplete
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.pdb
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.dll
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.pdb
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.AssemblyReference.cache
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CoreCompileInputs.cache
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CopyComplete
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.dll
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.pdb
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.dll
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.pdb
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\CelikoorMaster_LIB\bin\Debug\MySql.Data.dll
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\CelikoorMaster_LIB\bin\Debug\System.Memory.dll
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\CelikoorMaster_LIB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\CelikoorMaster_LIB\bin\Debug\System.Numerics.Vectors.dll
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\CelikoorMaster_LIB\bin\Debug\System.Buffers.dll
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\CelikoorMaster_LIB\bin\Debug\MySql.Data.xml
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.AssemblyReference.cache
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CoreCompileInputs.cache
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CopyComplete
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.dll
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.pdb
+C:\database\project\Celikoor_dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.dll
+C:\database\project\Celikoor_dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.pdb
+C:\database\project\Celikoor_dogon\CelikoorMaster_LIB\bin\Debug\System.Memory.dll
+C:\database\project\Celikoor_dogon\CelikoorMaster_LIB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\database\project\Celikoor_dogon\CelikoorMaster_LIB\bin\Debug\System.Numerics.Vectors.dll
+C:\database\project\Celikoor_dogon\CelikoorMaster_LIB\bin\Debug\System.Buffers.dll
+C:\database\project\Celikoor_dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.AssemblyReference.cache
+C:\database\project\Celikoor_dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CoreCompileInputs.cache
+C:\database\project\Celikoor_dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CopyComplete
+C:\database\project\Celikoor_dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.dll
+C:\database\project\Celikoor_dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.pdb
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.dll
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.pdb
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Memory.dll
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Numerics.Vectors.dll
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Buffers.dll
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.AssemblyReference.cache
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CoreCompileInputs.cache
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CopyComplete
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.dll
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Memory.dll
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\System.Buffers.dll
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.AssemblyReference.cache
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CopyComplete
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.dll
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\bin\Debug\System.Memory.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\bin\Debug\System.Buffers.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\bin\Debug\MySql.Data.xml
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.AssemblyReference.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CopyComplete
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\MySql.Data.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.AssemblyReference.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CopyComplete
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\bin\Debug\MySql.Data.xml
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.AssemblyReference.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.csproj.CopyComplete
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\CelikoorMaster_LIB\obj\Debug\CelikoorMaster_LIB.pdb

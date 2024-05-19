@@ -1,0 +1,945 @@
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.SuggestedBindingRedirects.cache
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Admin.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.EditProfile.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Kasir.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Login.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Menu.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Operator.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.ProfileKosnumen.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Register.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+D:\Ubaya\DataBase\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.EditProfile.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.ProfileKosnumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormAdmin.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKasir.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon(2)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.SuggestedBindingRedirects.cache
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormAdmin.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.EditProfile.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKonsumen.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginPegawai.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKasir.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginKonsumen.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.ProfileKosnumen.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+D:\Ubaya\DataBase\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormAdmin.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.EditProfile.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormAktor.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormCinema.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormGenre.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoice.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormJenisStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKelompok.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahAktor.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahCinema.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahGenre.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJenisStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKelompok.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateAktor.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKasir.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.ProfileKosnumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+C:\Users\Luky\Downloads\Celikoor_Dogon(3)\Celikoor_Dogon(3)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.dll
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.SuggestedBindingRedirects.cache
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormAdmin.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.EditProfile.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormAktor.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormCinema.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarKonsumen.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormFilm.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormGenre.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoice.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormJenisStudio.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKelompok.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKonsumen.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginPegawai.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPegawai.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormStudio.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahAktor.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahCinema.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahGenre.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJenisStudio.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKelompok.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKonsumen.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahPegawai.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahStudio.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateAktor.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateKonsumen.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateStudio.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKasir.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginKonsumen.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.ProfileKosnumen.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+D:\Semester 3\Database\Project UAS\Tahap 3\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.dll
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.SuggestedBindingRedirects.cache
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormAdmin.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.EditProfile.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormAktor.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormCinema.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarKonsumen.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormFilm.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormGenre.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoice.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormJenisStudio.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKelompok.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKonsumen.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginPegawai.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPegawai.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormStudio.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahAktor.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahCinema.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahGenre.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJenisStudio.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKelompok.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKonsumen.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahPegawai.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahStudio.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateAktor.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateKonsumen.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateStudio.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKasir.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginKonsumen.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.ProfileKosnumen.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarInvoice.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarJadwalFilm.resources
+D:\Ubaya\DataBase\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoicePending.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormAdmin.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.EditProfile.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormAktor.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormCinema.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarJadwalFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormGenre.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoice.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoicePending.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoiceTerbayar.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoiceValidasi.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormJenisStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKelompok.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahAktor.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahCinema.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahGenre.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJenisStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKelompok.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUbah.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateAktor.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKasir.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.ProfileKosnumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\Celikoor_Dogon(2) (1)\Celikoor_Dogon(4)\Celikoor_Dogon(4)\Celikoor_Dogon\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJadwalFilm.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\bin\Debug\MySql.Data.dll
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\bin\Debug\System.Memory.dll
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\bin\Debug\System.Numerics.Vectors.dll
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\bin\Debug\System.Buffers.dll
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\bin\Debug\MySql.Data.xml
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.ResolveComReference.cache
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormAdmin.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.EditProfile.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormAktor.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormCinema.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarJadwalFilm.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarKonsumen.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormFilm.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormGenre.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoice.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoicePending.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoiceTerbayar.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoiceValidasi.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormJenisStudio.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormKelompok.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormKonsumen.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginPegawai.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormPegawai.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormPesanFilm.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormPilihSeat.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormStudio.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahAktor.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahCinema.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahFilm.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahGenre.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJadwalFilm.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJenisStudio.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKelompok.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKonsumen.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahPegawai.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahStudio.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormUbah.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateAktor.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateKonsumen.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateStudio.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormKasir.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginKonsumen.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.ProfileKosnumen.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+C:\database\project\Celikoor_Dogon\Celikoor_Dogon(5)\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormAktor.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormCinema.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarJadwalFilm.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarKonsumen.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormGenre.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoice.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormJenisStudio.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKelompok.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginPegawai.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPegawai.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPesanFilm.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPilihSeat.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormStudio.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahAktor.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahCinema.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahFilm.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahGenre.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJadwalFilm.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJenisStudio.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKelompok.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKonsumen.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahPegawai.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahStudio.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateAktor.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateKonsumen.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateStudio.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginKonsumen.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe.config
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarFilm.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailFilm.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormEditProfile.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUbahFilm.resources
+C:\Users\Lenovo\Downloads\tahap5_Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormProfileKosnumen.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+C:\database\project\Celikoor_dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+C:\database\project\Celikoor_dogon\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+C:\database\project\Celikoor_dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+C:\database\project\Celikoor_dogon\ProjectDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\database\project\Celikoor_dogon\ProjectDatabase\bin\Debug\MySql.Data.dll
+C:\database\project\Celikoor_dogon\ProjectDatabase\bin\Debug\System.Memory.dll
+C:\database\project\Celikoor_dogon\ProjectDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\database\project\Celikoor_dogon\ProjectDatabase\bin\Debug\System.Numerics.Vectors.dll
+C:\database\project\Celikoor_dogon\ProjectDatabase\bin\Debug\System.Buffers.dll
+C:\database\project\Celikoor_dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+C:\database\project\Celikoor_dogon\ProjectDatabase\bin\Debug\MySql.Data.xml
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.SuggestedBindingRedirects.cache
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe.config
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.ResolveComReference.cache
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormEditProfile.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormCinema.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarJadwalFilm.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarKonsumen.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarFilm.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailFilm.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormGenre.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoice.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormJenisStudio.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKelompok.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginPegawai.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPegawai.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPesanFilm.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPilihSeat.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormStudio.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahAktor.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahCinema.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahFilm.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahGenre.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJadwalFilm.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJenisStudio.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKelompok.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKonsumen.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahPegawai.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahStudio.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUbahFilm.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateAktor.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateKonsumen.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateStudio.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginKonsumen.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormProfileKosnumen.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarAktor.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarPegawai.resources
+C:\database\project\Celikoor_dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Form1.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.dll
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Memory.dll
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Numerics.Vectors.dll
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Buffers.dll
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.xml
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.SuggestedBindingRedirects.cache
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe.config
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.ResolveComReference.cache
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Form1.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarPegawai.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormEditProfile.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarAktor.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormCinema.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarJadwalFilm.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarKonsumen.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarFilm.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailFilm.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormGenre.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoice.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormJenisStudio.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKelompok.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginPegawai.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPegawai.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPesanFilm.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPilihSeat.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormStudio.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahAktor.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahCinema.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahFilm.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahGenre.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJadwalFilm.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJenisStudio.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKelompok.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKonsumen.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahPegawai.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahStudio.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUbahFilm.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateAktor.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateKonsumen.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateStudio.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginKonsumen.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormProfileKosnumen.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+D:\UBAYA\UBAYA SMT 3\Database\PROJECT NAS\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe.config
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Form1.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormEditProfile.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarAktor.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormCinema.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarJadwalFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormGenre.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoice.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormJenisStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKelompok.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPesanFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPilihSeat.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahAktor.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahCinema.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahGenre.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJadwalFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJenisStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKelompok.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUbahFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateAktor.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormProfileKosnumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+C:\Users\Lenovo\Downloads\Celikoor_Dogon (2)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Memory.dll
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Buffers.dll
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe.config
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.ResolveComReference.cache
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Form1.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarPegawai.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormEditProfile.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarAktor.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormCinema.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarJadwalFilm.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarKonsumen.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarFilm.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailFilm.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormGenre.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoice.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormJenisStudio.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKelompok.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginPegawai.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPegawai.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPesanFilm.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPilihSeat.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormStudio.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahAktor.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahCinema.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahFilm.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahGenre.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJadwalFilm.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJenisStudio.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKelompok.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKonsumen.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahPegawai.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahStudio.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUbahFilm.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateAktor.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateKonsumen.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateStudio.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginKonsumen.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormProfileKosnumen.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailInvoice.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailInvKons.resources
+C:\Users\Salman Alfarizi\Downloads\Celikoor_Dogon (1)\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoiceKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\System.Memory.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\System.Buffers.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.exe.config
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.ResolveComReference.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.Form1.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailInvKons.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailInvoice.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormEditProfile.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarAktor.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormCinema.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarJadwalFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormGenre.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoice.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoiceKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormJenisStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormKelompok.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormPesanFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormPilihSeat.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahAktor.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahCinema.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahGenre.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJadwalFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJenisStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKelompok.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormUbahFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateAktor.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormProfileKosnumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormLaporan.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.exe.config
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailInvKons.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailInvoice.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormEditProfile.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarAktor.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormCinema.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarJadwalFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormGenre.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoice.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoiceKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormJenisStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormKelompok.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormLaporan.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormPesanFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormPilihSeat.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahAktor.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahCinema.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahGenre.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJadwalFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJenisStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKelompok.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormUbahFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateAktor.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormProfileKosnumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\ProjectDatabase\obj\Debug\ProjectDatabase.FormLogin.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailInvKons.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailInvoice.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormEditProfile.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarAktor.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormCinema.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarJadwalFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormGenre.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoice.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoiceKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormJenisStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKelompok.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLaporan.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPesanFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPilihSeat.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahAktor.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahCinema.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahGenre.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJadwalFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJenisStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKelompok.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUbahFilm.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateAktor.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateStudio.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLogin.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormProfileKosnumen.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormGantiPasswordKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.ResolveComReference.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailInvKons.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailInvoice.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormEditProfile.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarAktor.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormCinema.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarJadwalFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormGantiPasswordKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormGenre.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoice.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoiceKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormJenisStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKelompok.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLaporan.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPesanFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPilihSeat.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahAktor.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahCinema.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahGenre.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJadwalFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJenisStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKelompok.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUbahFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateAktor.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLogin.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormProfileKosnumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+C:\Users\Luky\Downloads\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe.config
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.exe
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\ProjectDatabase.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\CelikoorMaster_LIB.pdb
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.AssemblyReference.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.ResolveComReference.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailInvKons.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailInvoice.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormEditProfile.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarAktor.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormCinema.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarJadwalFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDaftarFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormDetailFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormGantiPasswordKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormGenre.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoice.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormInvoiceKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormJenisStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormKelompok.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLaporan.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPesanFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormPilihSeat.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahAktor.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahCinema.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahGenre.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJadwalFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahJenisStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKelompok.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormTambahStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUbahFilm.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateAktor.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUpdateStudio.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaKonsumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormUtamaPegawai.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLogin.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormLoginRegister.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormOperator.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormProfileKosnumen.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.FormRegister.resources
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.GenerateResource.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CoreCompileInputs.cache
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\Celikoor_Dogon.csproj.CopyComplete
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.exe
+C:\Users\Luky\Downloads\Celikoor_Dogon (Final)\Celikoor_Dogon (Final)\Celikoor_Dogon (3)\Celikoor_Dogon\Celikoor_Dogon\ProjectDatabase\obj\Debug\ProjectDatabase.pdb

@@ -1,0 +1,36 @@
+
+Celikoor Dogon
+XII Cinema 21
+Phone. (031)-123456
+==================================================
+Laporan Jumlah Film Terlaris
+
+
+==================================================
+
+Laporan Peringkat 3 Cabang Terbanyak Mendapatkan Pemasukan
+
+darmo
+==================================================
+
+Laporan 3 Film Dengan Jumlah Ketidakhadiran Paling Banyak
+
+Avatar4
+==================================================
+
+Laporan Peringkat 3 Studio Dengan Utilitas Terendah
+
+Studio XX2
+darmo
+246
+
+==================================================
+
+Laporan 10 Konsumen Teratas Penyuka Genre Comedy
+
+
+==================================================
+
+==================================================
+Thank you
+

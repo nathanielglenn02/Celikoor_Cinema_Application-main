@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celikoor_Dogon", "ProjectDatabase\Celikoor_Dogon.csproj", "{E81CC115-24AF-49BA-8F36-B2AFBEB5FB7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelikoorMaster_LIB", "CelikoorMaster_LIB\CelikoorMaster_LIB.csproj", "{76243C64-CEDC-428C-9B0D-628E419EDEBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E81CC115-24AF-49BA-8F36-B2AFBEB5FB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E81CC115-24AF-49BA-8F36-B2AFBEB5FB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E81CC115-24AF-49BA-8F36-B2AFBEB5FB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E81CC115-24AF-49BA-8F36-B2AFBEB5FB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76243C64-CEDC-428C-9B0D-628E419EDEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76243C64-CEDC-428C-9B0D-628E419EDEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76243C64-CEDC-428C-9B0D-628E419EDEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76243C64-CEDC-428C-9B0D-628E419EDEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BEC17BB-DCDE-4642-B633-95B8A6B5C689}
+	EndGlobalSection
+EndGlobal

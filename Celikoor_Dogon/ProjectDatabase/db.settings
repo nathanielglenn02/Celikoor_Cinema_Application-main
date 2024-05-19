@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProjectDatabase" GeneratedClassName="db">
+  <Profiles />
+  <Settings>
+    <Setting Name="DbServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="DbName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">celikoor</Value>
+    </Setting>
+    <Setting Name="DbUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="DbPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="cover_image" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Lenovo\Downloads\Celikoor_Dogon_LastEdited\Celikoor_Dogon_LastEdited\cover_image</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
